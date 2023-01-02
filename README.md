@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced NextJS.**
 
-- 💬 Ask me about **React, Redux, Plop, Node & Android.**
+- 💬 Ask me about **React, Redux, Plop, Node & Android OS.**
 
 - ⚡ Fun fact **Big fan of this emoji 🫡**
 
