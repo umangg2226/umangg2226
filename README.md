@@ -5,7 +5,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangg2226" alt="umangg2226" /></a> </p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangg2226&theme=dark"  alt="umangg2226"  /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umangg2226&theme=onedark_duo&border_radius=10)](https://git.io/streak-stats)
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangg2226&theme=dark"  alt="umangg2226"  /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangg2226&theme=dark" alt="umangg2226" /></p> -->
 
 
