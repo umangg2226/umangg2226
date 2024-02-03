@@ -10,11 +10,11 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangg2226&theme=dark" alt="umangg2226" /></p> -->
 
 
-- 🌱 I’m currently learning **Advanced NextJS.**
+<!-- - 🌱 I’m currently learning **Advanced NextJS.** -->
 
-- 💬 Ask me about **React, Redux, Plop, Node & Android OS.**
+<!-- - 💬 Ask me about **React, Redux, Plop, Node & Android OS.** -->
 
-- ⚡ Fun fact **Big fan of this emoji 🫡**
+<!-- - ⚡ Fun fact **Big fan of this emoji 🫡** -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
